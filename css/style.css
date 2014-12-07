@@ -1,0 +1,25 @@
+.canvasHolder{
+    border:4px solid black;
+    background-color: #FFF;
+    width: 960px;
+    height: 640px;
+    margin: auto;
+}
+
+#testCanvas{
+    border:1px solid red;
+}
+        
+#myCanvas{
+        
+    position: relative;
+    align-content: center;
+    background-color: #484848;
+    
+}
+        
+#body {
+            
+    background-color: #6a6a6a;
+        
+    }
